@@ -5,6 +5,7 @@ import static com.liferay.gs.testFramework.SeleniumReadPropertyKeys.DRIVER;
 import Locators.formsLocator;
 import utils.CommonMethods;
 
+//Adicionando um comentário para ver as mudancas no git
 public class formsPage {
 	
 	CommonMethods commonMethods = new CommonMethods();
